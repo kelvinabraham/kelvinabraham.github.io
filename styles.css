@@ -1,0 +1,11 @@
+#index{
+    color: red;
+}
+.index-main img{
+    width: 100px;
+    border: solid blue 3px;
+
+}.about-main img{
+    width: 100px;
+    border: solid blue 3px;
+}
