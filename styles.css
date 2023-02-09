@@ -1,11 +1,17 @@
-#index{
-    color: red;
+p {
+  color: white;
 }
-.index-main img{
-    width: 100px;
-    border: solid blue 3px;
-
-}.about-main img{
-    width: 100px;
-    border: solid blue 3px;
+h1 {
+  color: white;
+  text-align: center;
+}
+img {
+  height: 25%;
+  width: 60%;
+}
+a {
+  color: red;
+}
+script.jsclass {
+  color: white;
 }
